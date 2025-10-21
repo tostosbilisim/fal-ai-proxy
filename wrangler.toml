@@ -1,0 +1,6 @@
+name = "fal-ai-proxy"
+main = "src/index.ts"
+compatibility_date = "2024-09-02"
+
+[vars]
+FAL_KEY = "5123bfeb-9edd-4e0b-a681-c81b63383e17:522f1a2615269af96a8c5dff42888794"
